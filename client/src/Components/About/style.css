@@ -1,0 +1,27 @@
+
+
+.imgAbt{
+    border-radius: 50%;
+    height: 220px;
+    width: 220px;
+    margin-top:150px;
+
+}
+
+.jHeight{
+    height:700px;
+}
+.backAt{
+    background-image: url("/assets/images/water.jpg");
+    color: white; 
+    
+}
+
+.animTxt{
+    margin-top:220px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(3, 3, 43);
+}
+    
+
+
